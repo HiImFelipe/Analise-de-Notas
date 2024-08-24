@@ -1,5 +1,11 @@
 <h1 align=center>🔎 Análise de Notas</h1>
 
+<p align=center>
+    <img src="https://github.com/user-attachments/assets/a43d8853-1d7b-4bba-b519-fdec916d1b71" />
+</p>
+
+
+
 # 📖 Descrição do Exercício
 
 Você vai criar um programa em C que utiliza arrays e funções para calcular e analisar
